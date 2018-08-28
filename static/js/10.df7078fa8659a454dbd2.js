@@ -1,0 +1,2 @@
+webpackJsonp([10],{H83u:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var a={render:function(){var e=this.$createElement,t=this._self._c||e;return t("div",[t("el-container",{staticClass:"me-area"},[t("el-main",{staticClass:"me-main"},[t("pre",[this._v("    ")])])],1)],1)},staticRenderFns:[]};var r=n("VU/8")({name:"Log",data:function(){return{}},computed:{title:function(){return"日志 - For Fun"}}},a,!1,function(e){n("wL9X")},"data-v-08569909",null);t.default=r.exports},wL9X:function(e,t){}});
+//# sourceMappingURL=10.df7078fa8659a454dbd2.js.map

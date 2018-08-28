@@ -1,0 +1,87 @@
+{
+  "head":{
+    "name":"杨思静",
+    "intention":"后端开发",
+    "tel":"18590332584",
+    "email":"okkristen@foxmail.com",
+    "address":"浙江温州",
+    "age":"1995.05.08",
+    "sex":"男",
+    "school":"金华职业技术学院",
+    "graduation":"专科",
+    "graduationTime":"2013-9-1 至 2016-7-1",
+    "major":"建筑工程技术",
+    "honor":"暂无",
+    "interest":"骑行、编程、音乐",
+    "speciality":"java、js、css、html、Vue",
+    "specialityPer":"70、50、40、60、50"
+
+  },
+  "blogLink":{
+    "github":"https://github.com/okkristen",
+    "blog":""
+  },
+  "workExperience":{
+    "time":"2017-08-21~至今",
+    "experience":[
+      {
+        "name":"江苏启程感知科技有限公司",
+        "skill":"后端工程师",
+        "time":"",
+        "describe":[
+          "1、负责研发公司应用软件的模块设计、开发和交付",
+          "2、负责编码，单元测试",
+          "3、按照功能组件的详细设计",
+          "4、参与新知识的学习和培训",
+          "5、修复程序BUG",
+          "6、参与与其业务相关的需求变更评审",
+          "7、完成上级交办的其他事宜",
+          "8、编写技术设计文档"
+        ]
+      }
+    ]
+  },
+  "projectExperience":{
+    "time": "项目时间",
+    "experience":[
+      {
+        "name":"买钢乐供应链系统BOSS子系统",
+        "skill":"java,duddo",
+        "time":"2018.01~2018.05",
+        "describe":[
+          "xxxxxxxxxxxx"
+        ]
+      },
+      {
+        "name": "智慧河道",
+        "skill": "java,vue",
+        "time": "2018.05~2018.09",
+        "describe": [
+          "xxxxxxxxxxxx"
+        ]
+      }
+    ]
+  },
+  "skill":[
+    {
+      "type":"后端",
+      "describe":[
+        "java"
+      ]
+    },
+    {
+      "type": "前端",
+      "describe": [
+        "vue"
+      ]
+    }
+  ],
+  "selfAssessment":[
+    " 本人性格开朗，对待工作认真负责，待人真诚有礼貌，",
+    "善于沟通、协调有较强的组织能力与团队精神。",
+    "活泼开朗、乐观上进、有爱心。上进心强、",
+    "勤于学习能不断进步自身的能力与综合素质,",
+    "做事情有主见，敢于承担责任。"
+  ]
+
+}
